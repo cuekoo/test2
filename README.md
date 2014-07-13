@@ -29,3 +29,6 @@ images while debugging with gdb.
 ```
 
  from within your gdb session.
+
+ To display coordinate and pixel value, move the cursor while holding left mouse
+ button.
