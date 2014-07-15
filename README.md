@@ -33,14 +33,16 @@ images while debugging with gdb.
  To display coordinate and pixel value, move the cursor while holding left mouse
  button.
 
- ## DEMO
+## DEMO
 
  To use the demo
 
- ``
- $ cd gdb_imshow`
+ ```
+ $ cd gdb-imshow
  $ mkdir Debug
  $ cd Debug
  $ cmake -DCMAKE_BUILD_TYPE=Debug .. 
  $ make
  $ gdb ./main
+ ```
+
